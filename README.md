@@ -1,5 +1,5 @@
 # BitScopeMicroMount
- A designer frame to hold the Bitscope Micro with Hammerhead BNC interface.
+ A 3D-printed designer frame to hold the Bitscope Micro with Hammerhead BNC interface.
 
 ![X-frame to hold the BitScope Micro and Hammerhead.](./PICS/Scaled_20191214_203931.jpg)
 

@@ -1,6 +1,6 @@
 # BitScopeMicroMount
  A designer frame to hold the Bitscope Micro with Hammerhead BNC interface.
- 
+
 ![X-frame to hold the BitScope Micro and Hammerhead.](./PICS/Scaled_20191214_203931.jpg)
 
 The [BitScope Micro](https://www.bitscope.com/product/BS05/) is a tiny USB-connected oscilloscope with two analog channels, six logic channels, 20 MHz bandwidth, and 40 MSps logic capture.  It's a great little tool.
@@ -13,4 +13,4 @@ If you want to use it on your bench, however, you might find (like I did) that i
 - The X-frame gives the whole assembly four feet in (nearly) any orientation (obviously you can't put it face down or end down with the cables attached.)
 - and last, but not least, it looks pretty cool.
 
-Sketchup and .stl files are provided in the SKP_STL folder.  Pull the .stl file into your slicer, orient it as shown on the 'InSlicer' images in the PICS folder.  Pick your plastic and print away.  I used ABS because it was on my printer.  Not very scientific, I know, but it turned out great.
+Sketchup and .stl files are provided in the SKP_STL folder.  Pull the .stl file into your slicer, orient it as shown on the '*InSlicer.png' images in the PICS folder.  Pick your plastic and print away.  I used ABS because it was on my printer.  Not very scientific, I know, but it turned out great.
